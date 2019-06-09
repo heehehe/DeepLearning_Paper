@@ -32,11 +32,9 @@ Let's Read Deep Learning Paper!
 
 - 2019-06-09
 
-정현 
-[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602)
+[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - [Slide](https://www.slideshare.net/KyeongUkJang/playing-atari-with-deep-reinforcement-learning-149111108)
 
-경욱
-[Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+[Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/visualizing-data-using-tsne-149111155)
 
 - 2019-06-30
 
