@@ -38,21 +38,27 @@ Let's Read Deep Learning Paper!
 
 - 2019-06-30
 
-연준
-[Visualizing and understanding convolutional networks (2014), M. Zeiler and R. Fergus](https://arxiv.org/pdf/1311.2901.pdf)
+희선
+[Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181) - [Slide](https://www.slideshare.net/KyeongUkJang/cnn-for-sentence-classification)
 
-성한
-[Wide&Deep Learning for Recommender Systems(2016)](https://arxiv.org/pdf/1606.07792.pdf)
+연준
+[Gaussian Mixture Model](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gaussian-mixture-model-154072099)
 
 - 2019-07-07
 
+인준
+[Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/latent-dirichlet-allocation-154072330)
+
 다빈
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[Attention Is All You Need](https://arxiv.org/abs/1706.03762) - [Slide](http://jalammar.github.io/illustrated-transformer/)
+
+- 2019-07-21
+
+성한
 
 지후
-[CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks](https://dl.acm.org/citation.cfm?id=3271743)
 
-
+- 2018-08-04
 
 
 
