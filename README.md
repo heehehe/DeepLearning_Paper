@@ -56,7 +56,11 @@ Let's Read Deep Learning Paper!
 
 성한
 
+[Distilling the knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/distilling-the-knowledge-in-a-neural-network-157243661)
+
 지후
+
+[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gan-generative-adversarial-nets)
 
 - 2018-08-04
 
