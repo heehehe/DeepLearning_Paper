@@ -54,15 +54,21 @@ Let's Read Deep Learning Paper!
 
 - 2019-07-21
 
-성한
+성한 [Distilling the knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/distilling-the-knowledge-in-a-neural-network-157243661)
 
-[Distilling the knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/distilling-the-knowledge-in-a-neural-network-157243661)
+지후 [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gan-generative-adversarial-nets)
 
-지후
+- 2018-08-11
 
-[Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gan-generative-adversarial-nets)
+연준 [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/googlenet)
 
-- 2018-08-04
+정현 [Alphagozero](https://arxiv.org/pdf/1712.01815) - [Slide](https://www.slideshare.net/KyeongUkJang/alphagozero)
+
+- 2018-08-18
+
+경욱 [Photo Wake Up](http://openaccess.thecvf.com/content_CVPR_2019/papers/Weng_Photo_Wake-Up_3D_Character_Animation_From_a_Single_Photo_CVPR_2019_paper.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/photo-wake-up-3d-character-animation-from-a-single-photo-164581747)
+
+희선 [YOLO](https://arxiv.org/abs/1506.02640) - [Slide](https://www.slideshare.net/KyeongUkJang/yolo-164581572)
 
 
 
