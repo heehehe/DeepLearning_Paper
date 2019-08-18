@@ -32,25 +32,21 @@ Let's Read Deep Learning Paper!
 
 - 2019-06-09
 
-[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - [Slide](https://www.slideshare.net/KyeongUkJang/playing-atari-with-deep-reinforcement-learning-149111108)
+정현 [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - [Slide](https://www.slideshare.net/KyeongUkJang/playing-atari-with-deep-reinforcement-learning-149111108)
 
-[Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/visualizing-data-using-tsne-149111155)
+경욱 [Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/visualizing-data-using-tsne-149111155)
 
 - 2019-06-30
 
-희선
-[Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181) - [Slide](https://www.slideshare.net/KyeongUkJang/cnn-for-sentence-classification)
+희선 [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181) - [Slide](https://www.slideshare.net/KyeongUkJang/cnn-for-sentence-classification)
 
-연준
-[Gaussian Mixture Model](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gaussian-mixture-model-154072099)
+연준 [Gaussian Mixture Model](http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/gaussian-mixture-model-154072099)
 
 - 2019-07-07
 
-인준
-[Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/latent-dirichlet-allocation-154072330)
+인준 [Latent Dirichlet Allocation](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) - [Slide](https://www.slideshare.net/KyeongUkJang/latent-dirichlet-allocation-154072330)
 
-다빈
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762) - [Slide](http://jalammar.github.io/illustrated-transformer/)
+다빈 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - [Slide](http://jalammar.github.io/illustrated-transformer/)
 
 - 2019-07-21
 
